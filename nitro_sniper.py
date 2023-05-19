@@ -8,7 +8,7 @@ try:
     import os
     from colorama import Fore, Back, Style
 except ImportError:
-    os.system('pip install httpx discord.py==1.7.3')
+    os.system('pip install httpx discord.py==1.7.3 requests')
     input()
 
 
