@@ -1,4 +1,7 @@
 # nitro-sniper
+
+# (NOT WORKING ANYMORE)
+
 Nitro sniper for redeem nitro gift
 
 Enter your token for start the program.
